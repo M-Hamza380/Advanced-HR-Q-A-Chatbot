@@ -46,6 +46,8 @@ list_of_file = [
     f"src/{Project_Name}/utils/exception.py",
     f"src/{Project_Name}/utils/common.py",
     f"src/{Project_Name}/notebook/exp.ipynb",
+    ".env",
+    ".env.example",
     "Makefile",
     "requirements.txt",
     "Dockerfile",
